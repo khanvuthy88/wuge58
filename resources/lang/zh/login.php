@@ -1,0 +1,27 @@
+<?php
+
+return[
+	'email_address'=>'邮箱地址',
+	'password'=>'密码',
+	'remember_me'=>'记住我',
+	'login'=>'登录',
+	'register'=>'注册',
+	'forget_your_password'=>'忘记密码了吗？',
+	'posts'=>'分享',
+	'categories'=>'类别',
+	'setting'=>'设置',
+	'all_posts'=>'所有帖子',
+	'create_new_post'=>'创新分享 ',
+	'post_name'=>'邮政名称',
+	'post_price'=>'发布价格',
+	'actions'=>'操作',
+	'search'=>'搜索',
+	'edit'=>'编辑',
+	'delete'=>'删除',
+	'show'=>'显示',
+	'form_action_label'=>'发表表格行动',
+	'logout'=>'退网',
+	'dashboard'=>'控制面板',
+	'edit_category'=>'更新类别',
+	'create_new_category'=>'创建新类别',
+];
